@@ -1,0 +1,74 @@
+html {
+    scroll-behavior: smooth;
+    font-family: Arial;
+}
+
+.title {
+    margin-bottom: 0px;
+}
+
+h2 {
+    color: #000000;
+    margin-bottom: 0px;
+}
+
+.introduction {
+    font-size: large;
+    margin-top: 0px;
+    width: 800px;
+}
+
+.TableOfContents {
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.TableOfContents a {
+    text-decoration: none;
+    color: #18445f;
+    transition: 0.1s ease-in-out;
+    font-size: 18px;
+}
+
+.TableOfContents a:hover {
+    color: #6306aa;
+}
+
+.Header {
+    margin-top: 50px;
+    margin-bottom: 0px;
+}
+
+.textClassicalMechanics, .textElectromagnetism, .textThermodynamics, .textOptics, .textQuantumMechanics, .textRelativity, .textNuclearParticle, .textEconophysics, .textAstronomy, .textBiophysics, .textAthmospheric, .textProgramming, .textMath {
+    display: inline-block;
+    width: 580px;
+    vertical-align: top;
+}
+
+.MechanicsPictureDiv1 , .ElectromagnetismPictureDiv1, .ThermodynamicsPictureDiv1, .OpticsPictureDiv1, .QuantumMechanicsPictureDiv1, .RelativityPictureDiv1, .NuclearParticlePictureDiv1, .EconophysicsPictureDiv1, .AstronomyPictureDiv1, .BiophysicsPictureDiv1, .AthmosphericPictureDiv1, .ProgrammingPictureDiv1, .MathPictureDiv1 {
+    display: inline-block;
+    vertical-align: center;
+    vertical-align: top;
+}
+
+.MechanicsPicture1, .ElectromagnetismPicture1, .ThermodynamicsPicture1, .OpticsPicture1, .QuantumMechanicsPicture1, .RelativityPicture1, .NuclearParticlePicture1, .EconophysicsPicture1, .AstronomyPicture1, .BiophysicsPicture1, .AthmosphericPicture1, .ProgrammingPicture1, .MathPicture1 {
+    width: 200px;
+    height: auto;
+    display: block;
+}
+
+.MechanicsPictureDiv2, .ElectromagnetismPictureDiv2, .ThermodynamicsPictureDiv2, .OpticsPictureDiv2, .QuantumMechanicsPictureDiv2, .RelativityPictureDiv2, .NuclearParticlePictureDiv2, .AstronomyPictureDiv2, .ProgrammingPictureDiv2, .MathPictureDiv2 {
+    display: inline-block;
+    vertical-align: 50%;
+}
+
+.MechanicsPicture2, .ElectromagnetismPicture2, .ThermodynamicsPicture2, .OpticsPicture2, .QuantumMechanicsPicture2, .RelativityPicture2, .NuclearParticlePicture2, .AstronomyPicture2, .ProgrammingPicture2, .MathPicture2 {
+    width: 200px;
+    height: auto;
+    display: block;
+}
+
+.PicturesClassicalMechanics , .PicturesElectromagnetism, .PicturesThermodynamics, .PicturesOptics, .PicturesQuantumMechanics, .PicturesRelativity, .PicturesNuclearParticle, .PicturesEconophysics, .PicturesAstronomy, .PicturesBiophysics, .PicturesAthmospheric, .PicturesProgramming, .PicturesMath {
+    display: inline-block;
+    vertical-align: top;
+}
