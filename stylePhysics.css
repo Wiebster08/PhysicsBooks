@@ -12,6 +12,21 @@ h2 {
     margin-bottom: 0px;
 }
 
+.TopContent {
+    width: 1000px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.Line {
+    width: 1000px;
+    height: 10px;
+}
+
+.Content {
+    width: 1000px;
+    margin: 0 auto;
+}
 .introduction {
     font-size: large;
     margin-top: 0px;
@@ -32,11 +47,6 @@ h2 {
 
 .TableOfContents a:hover {
     color: #6306aa;
-}
-
-.Header {
-    margin-top: 50px;
-    margin-bottom: 0px;
 }
 
 .textClassicalMechanics, .textElectromagnetism, .textThermodynamics, .textOptics, .textQuantumMechanics, .textRelativity, .textNuclearParticle, .textEconophysics, .textAstronomy, .textBiophysics, .textAthmospheric, .textProgramming, .textMath {
